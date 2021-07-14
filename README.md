@@ -1,4 +1,4 @@
-
+<html lang="en">
 <style>
 .hr-solid-content{
     color: #a2a9b6;
@@ -31,7 +31,7 @@
     
 }
 </style>
-
+<body>
 <hr class="hr-solid-content" data-content="Sea" width="420" align="left">
 <br>
 
@@ -58,3 +58,5 @@
 
 - You must keep going even after I'm gone.
 
+</body>
+</html>
