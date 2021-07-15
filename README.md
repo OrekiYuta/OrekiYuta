@@ -3,7 +3,7 @@
 <h1 ></h1>
 <br/>
 
-<img src="https://raw.githubusercontent.com/OrekiYuta/OrekiYuta/main/OrekiYuta.png"  height="515" width="300" align="right">
+<img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/OrekiYuta.png"  height="515" width="300" align="right">
 
 - A white bird drifting alone.
 
