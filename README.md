@@ -2,29 +2,39 @@
 
 <h1 ></h1>
 <br/>
+<div>
 
-<img src="https://raw.githubusercontent.com/OrekiYuta/OrekiYuta/main/OrekiYuta.png"  height="515" width="300" align="right">
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/OrekiYuta.png"  height="515" width="300" align="right">
+</div>
 
-- A white bird drifting alone.
-
-- Blending neither into the blue of the sky nor the blue of the sea.
-
-- Flying on the white wings to the tropical island between the two blue worlds.
-
-<br/>
-<h1></h1>
-
-
-- We've always fooled around together since we were kids.
-
-- We've shared the most exciting moments, but every story has an end.
-
-- No one can stay a kid forever.
-
-- Time moves on, and people grow up.
-
-- We must go our separate ways.
-
-- You must keep going even after I'm gone.
+<h2> Hi there 👋, Elias here... Let's Creating！<h2>
 
 <h1></h1>
+<div>
+  <h3>🦄 Resources used</h3>
+    <div>
+        <p>-> Serverless, Cloud Platform, Framework, Blockchain</p>
+        <p>-> Hardware, HomeLab, x86 Server, <b>Automation</b>, Network Architecture</p>
+        <p>-> Front / Back End, Web / Desktop App</p>
+        <p>-> <b>Python</b>, Java, Golang, Javascript, C#, Dart</p>
+        <p>-> Flask, Spring, <b>Vue.js(Quasar)</b>, Node.js</p>
+        <p>-> <b>Docker</b>, Oracle, MySQL, VMware, EXSI, PVE</p>
+        <p>-> Linux / Windows / MacOS / Android</p>
+    </div>
+</div>
+
+<h1></h1>
+<div>
+  <h3>🥇 Cloud Badges</h3>
+  <img src="./Badges_v8-07_Practitioner.png" width="120" height="120"/>
+  <img src="./Industrial-AI-Foundational.png" width="120" height="120"/>
+  <img src="./microsoft-certified-fundamentals-badge.svg" width="120" height="120"/>
+  <img src="./tencent_architect.png" width="220" height="120"/>
+  <img src="./alibaba_acp.png" width="120" height="120"/>
+</div>
+
+<h1></h1>
+<div>
+  <h3>🏆 Github Profile Trophy</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=orekiyuta&column=4"/>
+</div>
