@@ -26,11 +26,11 @@
 <h1></h1>
 <div>
   <h3>🥇 Cloud Badges</h3>
-  <img src="./Badges_v8-07_Practitioner.png" width="120" height="120"/>
-  <img src="./Industrial-AI-Foundational.png" width="120" height="120"/>
-  <img src="./microsoft-certified-fundamentals-badge.svg" width="120" height="120"/>
-  <img src="./tencent_architect.png" width="220" height="120"/>
-  <img src="./alibaba_acp.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/Badges_v8-07_Practitioner.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/Industrial-AI-Foundational.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/microsoft-certified-fundamentals-badge.svg" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/tencent_architect.png" width="220" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/alibaba_acp.png" width="120" height="120"/>
 </div>
 
 <h1></h1>
