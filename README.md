@@ -4,10 +4,10 @@
 <br/>
 <div>
 
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/OrekiYuta.png"  height="515" width="300" align="right">
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/OrekiYuta.png"  height="515" width="300" align="right">
 </div>
 
-<h2> Hi there 👋, Elias here... Let's Creating！<h2>
+### Hi there 👋, Elias here... Let's Creating！
 
 <h1></h1>
 <div>
@@ -26,11 +26,11 @@
 <h1></h1>
 <div>
   <h3>🥇 Cloud Badges</h3>
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/Badges_v8-07_Practitioner.png" width="120" height="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/Industrial-AI-Foundational.png" width="120" height="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/microsoft-certified-fundamentals-badge.svg" width="120" height="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/tencent_architect.png" width="220" height="120"/>
-  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.0/alibaba_acp.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/Badges_v8-07_Practitioner.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/Industrial-AI-Foundational.png" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/microsoft-certified-fundamentals-badge.svg" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/tencent_architect.png" width="220" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/alibaba_acp.png" width="120" height="120"/>
 </div>
 
 <h1></h1>
