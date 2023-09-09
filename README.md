@@ -36,5 +36,5 @@
 <h1></h1>
 <div>
   <h3>🏆 Github Profile Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=orekiyuta&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=orekiyuta&column=8"/>
 </div>
