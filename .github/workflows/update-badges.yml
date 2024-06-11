@@ -13,4 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: yanru-li.ad12105c # optional, but default will use the same from github
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
