@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Artificial Intelligence Fundamentals](https://images.credly.com/size/110x110/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](http://www.credly.com/badges/df08d1bf-c77d-445c-8c9f-4ea40c578c28 "Artificial Intelligence Fundamentals")
 [![Cloud Computing Fundamentals](https://images.credly.com/size/110x110/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png)](http://www.credly.com/badges/d943422d-ebf7-4041-93c8-1a1870737262 "Cloud Computing Fundamentals")
 [![AWS Partner: Generative AI Essentials](https://images.credly.com/size/110x110/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/ede610d4-d2a1-4508-8f96-0d7dd30ac5de "AWS Partner: Generative AI Essentials")
 [![AIOPS Certified Solution Administrator](https://images.credly.com/size/110x110/images/cddc2936-8041-4055-932a-28d19313fecd/image.png)](http://www.credly.com/badges/ad692fd7-f617-4644-8231-87df0272d0b4 "AIOPS Certified Solution Administrator")
