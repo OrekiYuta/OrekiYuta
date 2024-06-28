@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/1b509054-1e8c-427a-808d-8bd33f9f650e "Explore Emerging Tech")
 [![Deep Learning Intent Recognition Specialist](https://images.credly.com/size/110x110/images/087d9a9f-ea47-4d95-82fb-adfed803a851/image.png)](http://www.credly.com/badges/fe24dea8-2c6e-4ce8-a11d-d1fabca3e1a9 "Deep Learning Intent Recognition Specialist")
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/110x110/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](http://www.credly.com/badges/df08d1bf-c77d-445c-8c9f-4ea40c578c28 "Artificial Intelligence Fundamentals")
 [![Cloud Computing Fundamentals](https://images.credly.com/size/110x110/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png)](http://www.credly.com/badges/d943422d-ebf7-4041-93c8-1a1870737262 "Cloud Computing Fundamentals")
