@@ -16,6 +16,8 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![IBM Generative AI Foundations](https://images.credly.com/size/110x110/images/3f47012c-5e2c-4c8a-98a4-6e6e96571926/AI-Generative-AI-Foundations.png)](http://www.credly.com/badges/3ccbb524-b856-40c6-8cfc-edc684fda6a1 "IBM Generative AI Foundations")
+[![Trustworthy AI and AI Ethics](https://images.credly.com/size/110x110/images/25d0ed8f-02ee-4277-bf8f-2dacfe123a79/Trustworthy-AI-and-AI-Ethics-Foundations.png)](http://www.credly.com/badges/8fdb27a9-4bc3-45b9-a499-c26463af8188 "Trustworthy AI and AI Ethics")
 [![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/1b509054-1e8c-427a-808d-8bd33f9f650e "Explore Emerging Tech")
 [![Deep Learning Intent Recognition Specialist](https://images.credly.com/size/110x110/images/087d9a9f-ea47-4d95-82fb-adfed803a851/image.png)](http://www.credly.com/badges/fe24dea8-2c6e-4ce8-a11d-d1fabca3e1a9 "Deep Learning Intent Recognition Specialist")
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/110x110/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](http://www.credly.com/badges/df08d1bf-c77d-445c-8c9f-4ea40c578c28 "Artificial Intelligence Fundamentals")
