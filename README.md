@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f "Cybersecurity Fundamentals")
 [![React application developer](https://images.credly.com/size/110x110/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png)](http://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963 "React application developer")
 [![Alteryx Foundational Micro-Credential](https://images.credly.com/size/110x110/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)](http://www.credly.com/badges/8ed8265e-ad57-4b41-a7a7-9ea00f6afcaa "Alteryx Foundational Micro-Credential")
 [![Machine Learning Fundamentals Micro-Credential](https://images.credly.com/size/110x110/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png)](http://www.credly.com/badges/61085a7b-af10-4c0b-9b63-d02e2fdadaf5 "Machine Learning Fundamentals Micro-Credential")
