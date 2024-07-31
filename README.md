@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Autonomous Driving Training](https://images.credly.com/size/110x110/images/67696de5-1b7c-415c-8727-a614530d3529/image.png)](http://www.credly.com/badges/4e233d31-f6d3-4aa1-828c-4f1d3655330f "Autonomous Driving Training")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f "Cybersecurity Fundamentals")
 [![React application developer](https://images.credly.com/size/110x110/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png)](http://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963 "React application developer")
 [![Alteryx Foundational Micro-Credential](https://images.credly.com/size/110x110/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)](http://www.credly.com/badges/8ed8265e-ad57-4b41-a7a7-9ea00f6afcaa "Alteryx Foundational Micro-Credential")
@@ -63,7 +64,6 @@
 [![IBM Consulting – Delivering Business Value](https://images.credly.com/size/110x110/images/b9f5de36-678a-4687-8abb-331a82526bf2/IBM-Consulting-Education-delivering-business-value.png)](http://www.credly.com/badges/ba9afe3b-b12a-4a3b-a320-b2701154c27a "IBM Consulting – Delivering Business Value")
 [![IBM Consulting – Communicating Value](https://images.credly.com/size/110x110/images/f81be9d3-cfd6-43e3-88a7-aaf0200dcbe0/IBM-Consulting-Education-communicating-value.png)](http://www.credly.com/badges/c241288d-6b4c-49a0-b1f5-595d0bdcd15a "IBM Consulting – Communicating Value")
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/841d21e6-153f-4429-9bbf-eef9a2d2f326 "Enterprise Design Thinking Practitioner")
-[![The IBM Way](https://images.credly.com/size/110x110/images/009696ad-3bb2-48e7-88d6-48c4a0d2c9a3/The-IBM-Way.png)](http://www.credly.com/badges/b398ade7-b443-4ff0-84bf-2587fe0134fb "The IBM Way")
 <!--END_SECTION:badges-->
 </div>
 
