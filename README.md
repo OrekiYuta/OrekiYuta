@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Information Technology Fundamentals](https://images.credly.com/size/110x110/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png)](http://www.credly.com/badges/69a8555f-69b6-4d67-8e2e-7c27b3124923 "Information Technology Fundamentals")
 [![Data Fundamentals](https://images.credly.com/size/110x110/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png)](http://www.credly.com/badges/73eff7d5-1b95-4842-a785-fdf8b1077c24 "Data Fundamentals")
 [![Autonomous Driving Training](https://images.credly.com/size/110x110/images/67696de5-1b7c-415c-8727-a614530d3529/image.png)](http://www.credly.com/badges/4e233d31-f6d3-4aa1-828c-4f1d3655330f "Autonomous Driving Training")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f "Cybersecurity Fundamentals")
@@ -63,7 +64,6 @@
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/b07574be-fa68-4e8e-b3d3-0790c7455677 "Microsoft Certified: Azure Fundamentals")
 [![IBM Agile Explorer](https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/908cec58-b2e7-433a-a16e-8410d77339d6 "IBM Agile Explorer")
 [![IBM Consulting – Delivering Business Value](https://images.credly.com/size/110x110/images/b9f5de36-678a-4687-8abb-331a82526bf2/IBM-Consulting-Education-delivering-business-value.png)](http://www.credly.com/badges/ba9afe3b-b12a-4a3b-a320-b2701154c27a "IBM Consulting – Delivering Business Value")
-[![IBM Consulting – Communicating Value](https://images.credly.com/size/110x110/images/f81be9d3-cfd6-43e3-88a7-aaf0200dcbe0/IBM-Consulting-Education-communicating-value.png)](http://www.credly.com/badges/c241288d-6b4c-49a0-b1f5-595d0bdcd15a "IBM Consulting – Communicating Value")
 <!--END_SECTION:badges-->
 </div>
 
