@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/371f5ca7-d16e-488b-a34a-a8ae542ccfdf "Web Development Fundamentals")
 [![Fundamentals of Sustainability and Technology](https://images.credly.com/size/110x110/images/cef0e894-8024-4a89-8337-c7ee295aef19/image.png)](http://www.credly.com/badges/3724e0b8-d281-4409-9f84-84aa6211e7d3 "Fundamentals of Sustainability and Technology")
 [![Information Technology Fundamentals](https://images.credly.com/size/110x110/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png)](http://www.credly.com/badges/69a8555f-69b6-4d67-8e2e-7c27b3124923 "Information Technology Fundamentals")
 [![Data Fundamentals](https://images.credly.com/size/110x110/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png)](http://www.credly.com/badges/73eff7d5-1b95-4842-a785-fdf8b1077c24 "Data Fundamentals")
@@ -63,7 +64,6 @@
 [![Industrial AI - Foundational](https://images.credly.com/size/110x110/images/eefdbc11-ce10-4904-a8d7-0d9f4ca9ecd4/Industrial-AI-Foundational.png)](http://www.credly.com/badges/d30ebff7-11f1-4ce4-851e-4dd32a5b2607 "Industrial AI - Foundational")
 [![Industry 4.0 Fundamentals](https://images.credly.com/size/110x110/images/a547e10c-27b8-4b2b-aa63-7ff9c5e60e7c/Industry-4.0-Fundamentals.png)](http://www.credly.com/badges/9b388fdf-7689-4d6b-800c-f7f2e85c2f02 "Industry 4.0 Fundamentals")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/b07574be-fa68-4e8e-b3d3-0790c7455677 "Microsoft Certified: Azure Fundamentals")
-[![IBM Agile Explorer](https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/908cec58-b2e7-433a-a16e-8410d77339d6 "IBM Agile Explorer")
 <!--END_SECTION:badges-->
 </div>
 
