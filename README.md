@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/cb3e1448-8933-4efe-80ee-13d9e4da8f2b "AWS Knowledge: Architecting")
 [![User Experience Design Fundamentals](https://images.credly.com/size/110x110/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png)](http://www.credly.com/badges/06bb9fa3-cd04-4865-bb02-6384374eb116 "User Experience Design Fundamentals")
 [![ERP Decoupling Training](https://images.credly.com/size/110x110/images/acedf554-8a50-474f-bf99-6a8bd0503662/image.png)](http://www.credly.com/badges/d59349ba-5bf7-432d-b4f4-30db75a67003 "ERP Decoupling Training")
 [![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/371f5ca7-d16e-488b-a34a-a8ae542ccfdf "Web Development Fundamentals")
@@ -63,7 +64,6 @@
 [![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/110x110/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/aa55f676-e2f8-49b1-b22f-b10af73913a3 "IBM Consulting Way Habits - Foundational")
 [![IBM Garage Foundation](https://images.credly.com/size/110x110/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/4d6d9761-d4a6-4c6e-b37d-8f610886faa7 "IBM Garage Foundation")
 [![IBM Garage Essentials](https://images.credly.com/size/110x110/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/e6046fdb-f55c-4fcb-83f1-5104c01b5c52 "IBM Garage Essentials")
-[![Industrial AI - Foundational](https://images.credly.com/size/110x110/images/eefdbc11-ce10-4904-a8d7-0d9f4ca9ecd4/Industrial-AI-Foundational.png)](http://www.credly.com/badges/d30ebff7-11f1-4ce4-851e-4dd32a5b2607 "Industrial AI - Foundational")
 <!--END_SECTION:badges-->
 </div>
 
