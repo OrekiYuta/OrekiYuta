@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Photovoltaic Industry Training](https://images.credly.com/size/110x110/images/3084256a-abbf-44f1-a46c-4f081a507595/blob)](http://www.credly.com/badges/338b8e58-77f3-4a77-a057-beded5ed61c8 "Photovoltaic Industry Training")
 [![Process Mining Training](https://images.credly.com/size/110x110/images/52160d67-744a-4134-b432-62a2ce3d62d7/image.png)](http://www.credly.com/badges/02f4ff40-7c91-4102-a914-d4672a216f1a "Process Mining Training")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/cb3e1448-8933-4efe-80ee-13d9e4da8f2b "AWS Knowledge: Architecting")
 [![User Experience Design Fundamentals](https://images.credly.com/size/110x110/images/255f1178-a3ba-4738-a494-02b046fbec10/image.png)](http://www.credly.com/badges/06bb9fa3-cd04-4865-bb02-6384374eb116 "User Experience Design Fundamentals")
@@ -42,19 +43,19 @@
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/3ead07d6-e3fb-4ccc-9fc4-fa8ce4bb34f7 "AWS Certified Solutions Architect – Professional")
 [![IBM Growth Behaviors](https://images.credly.com/size/110x110/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png)](http://www.credly.com/badges/093d3413-6379-402c-9f94-4960a7931b0b "IBM Growth Behaviors")
 [![Principles of Reactive Architecture](https://images.credly.com/size/110x110/images/c37082a5-c2dc-41a3-b3ff-9e4b33bb746f/Princ_of_react_arch_v1.png)](http://www.credly.com/badges/7c046a32-5a92-42c9-a613-7e9f149f425c "Principles of Reactive Architecture")
-[![Deep Learning](https://images.credly.com/size/110x110/images/747c6cdd-e728-446a-8e32-bbfb58fc04c7/Deep_Learning_-_Knowledge_2_Stars.png)](http://www.credly.com/badges/f1fc04cf-62c9-486b-a4dd-713d0d4be85e "Deep Learning")
+[![Deep Learning](https://images.credly.com/size/110x110/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob)](http://www.credly.com/badges/f1fc04cf-62c9-486b-a4dd-713d0d4be85e "Deep Learning")
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png)](http://www.credly.com/badges/f141e86e-cea9-4cf2-8dde-aed9a9296076 "Accelerated Deep Learning with GPU")
 [![Deep Learning Essentials](https://images.credly.com/size/110x110/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png)](http://www.credly.com/badges/50b35220-79f2-4256-8041-df08c74c7a80 "Deep Learning Essentials")
 [![Deep Learning using TensorFlow](https://images.credly.com/size/110x110/images/28d68d08-7a26-4868-be2e-7bf32eeab4f8/Deep_Learning_Using_TensorFlow.png)](http://www.credly.com/badges/c4be0dcb-76c3-4091-97d1-0916858827d0 "Deep Learning using TensorFlow")
 [![Security and Privacy by Design Foundations](https://images.credly.com/size/110x110/images/c1ca6570-bdc6-40e9-8992-722050788418/Security-_-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/3507e118-59e1-4075-8310-50807c01598b "Security and Privacy by Design Foundations")
-[![Data Science for Business - Level 1](https://images.credly.com/size/110x110/images/f2f9716d-7be0-47ef-b4ad-c8d3b481b9d7/Data_Sci_Business_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/f4d64785-1334-4d9f-af67-2fe21db4fbfd "Data Science for Business - Level 1")
-[![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/e5dab254-625f-4219-92aa-30c01008b730 "IBM Cloud Essentials")
-[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/360b235b-897c-4063-b183-64d295542ae4 "Data Science Foundations - Level 1")
-[![Data Science Methodologies](https://images.credly.com/size/110x110/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png)](http://www.credly.com/badges/15d2f490-1248-46ee-a844-21f26f8f61d7 "Data Science Methodologies")
-[![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/bef87b52-18e8-4810-a937-d64458dc4b86 "Data Science Tools")
-[![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png)](http://www.credly.com/badges/55784c2a-b17f-4384-9d47-0200979c9514 "Machine Learning with Python - Level 1")
+[![Data Science for Business - Level 1](https://images.credly.com/size/110x110/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob)](http://www.credly.com/badges/f4d64785-1334-4d9f-af67-2fe21db4fbfd "Data Science for Business - Level 1")
+[![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob)](http://www.credly.com/badges/e5dab254-625f-4219-92aa-30c01008b730 "IBM Cloud Essentials")
+[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob)](http://www.credly.com/badges/360b235b-897c-4063-b183-64d295542ae4 "Data Science Foundations - Level 1")
+[![Data Science Methodologies](https://images.credly.com/size/110x110/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob)](http://www.credly.com/badges/15d2f490-1248-46ee-a844-21f26f8f61d7 "Data Science Methodologies")
+[![Data Science Tools](https://images.credly.com/size/110x110/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob)](http://www.credly.com/badges/bef87b52-18e8-4810-a937-d64458dc4b86 "Data Science Tools")
+[![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](http://www.credly.com/badges/55784c2a-b17f-4384-9d47-0200979c9514 "Machine Learning with Python - Level 1")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/e08e2c23-a8f7-4ace-a8e5-38ff767467a2 "Python for Data Science")
-[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/540055fc-c584-4e91-9ae9-2458cdff44b1 "Docker Essentials: A Developer Introduction")
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](http://www.credly.com/badges/540055fc-c584-4e91-9ae9-2458cdff44b1 "Docker Essentials: A Developer Introduction")
 [![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/110x110/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](http://www.credly.com/badges/4f616428-7ba1-49a5-bff0-fbe4c8d31f88 "Enterprise Design Thinking for Sustainability")
 [![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/110x110/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](http://www.credly.com/badges/97478c16-0429-4f55-9f6f-9ff3a8db7c57 "Enterprise Design Thinking - Team Essentials for AI")
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/b6441a1b-eed0-4e29-aa12-b6ae2f2f896b "Enterprise Design Thinking Co-Creator")
@@ -63,7 +64,6 @@
 [![IBM watsonx Essentials](https://images.credly.com/size/110x110/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/bd258613-bfdd-4419-953e-3efaa881cffe "IBM watsonx Essentials")
 [![watsonx.ai Sales Foundation](https://images.credly.com/size/110x110/images/8079b4fc-9494-45d5-8621-78815d88fa3a/image.png)](http://www.credly.com/badges/1670b3ec-ae40-4df4-beba-46030511baff "watsonx.ai Sales Foundation")
 [![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/110x110/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/aa55f676-e2f8-49b1-b22f-b10af73913a3 "IBM Consulting Way Habits - Foundational")
-[![IBM Garage Foundation](https://images.credly.com/size/110x110/images/9beccf39-df2f-4025-b971-3a7ec6dfdbfa/image.png)](http://www.credly.com/badges/4d6d9761-d4a6-4c6e-b37d-8f610886faa7 "IBM Garage Foundation")
 <!--END_SECTION:badges-->
 </div>
 
