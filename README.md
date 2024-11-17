@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/4c5f6a68-ce98-4904-995f-e01dacaa0cce "AWS Knowledge: Serverless")
 [![Photovoltaic Industry Training](https://images.credly.com/size/110x110/images/3084256a-abbf-44f1-a46c-4f081a507595/blob)](http://www.credly.com/badges/338b8e58-77f3-4a77-a057-beded5ed61c8 "Photovoltaic Industry Training")
 [![Process Mining Training](https://images.credly.com/size/110x110/images/52160d67-744a-4134-b432-62a2ce3d62d7/image.png)](http://www.credly.com/badges/02f4ff40-7c91-4102-a914-d4672a216f1a "Process Mining Training")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/cb3e1448-8933-4efe-80ee-13d9e4da8f2b "AWS Knowledge: Architecting")
@@ -63,7 +64,6 @@
 [![IBM Agile Advocate](https://images.credly.com/size/110x110/images/00cfeff7-03d2-4c00-b129-d2c09ca39831/IBM-Agile-Advocate.png)](http://www.credly.com/badges/8bf9982b-8977-4076-99d8-5ac04d6f2076 "IBM Agile Advocate")
 [![IBM watsonx Essentials](https://images.credly.com/size/110x110/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/bd258613-bfdd-4419-953e-3efaa881cffe "IBM watsonx Essentials")
 [![watsonx.ai Sales Foundation](https://images.credly.com/size/110x110/images/8079b4fc-9494-45d5-8621-78815d88fa3a/image.png)](http://www.credly.com/badges/1670b3ec-ae40-4df4-beba-46030511baff "watsonx.ai Sales Foundation")
-[![IBM Consulting Way Habits - Foundational](https://images.credly.com/size/110x110/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png)](http://www.credly.com/badges/aa55f676-e2f8-49b1-b22f-b10af73913a3 "IBM Consulting Way Habits - Foundational")
 <!--END_SECTION:badges-->
 </div>
 
