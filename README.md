@@ -16,6 +16,9 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](http://www.credly.com/badges/ad250bf8-f809-4d8b-a414-cd4ccdec94d2 "AWS Knowledge: Amazon Braket")
+[![AWS Knowledge: AWS for Games: Cloud Game Development](https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](http://www.credly.com/badges/7a374012-7b3a-4e9a-a080-78c9ef248f0f "AWS Knowledge: AWS for Games: Cloud Game Development")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/e08ea748-2eb4-463e-98fe-f99b3ee37391 "AWS Knowledge: Cloud Essentials")
 [![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/4c5f6a68-ce98-4904-995f-e01dacaa0cce "AWS Knowledge: Serverless")
 [![Photovoltaic Industry Training](https://images.credly.com/size/110x110/images/3084256a-abbf-44f1-a46c-4f081a507595/blob)](http://www.credly.com/badges/338b8e58-77f3-4a77-a057-beded5ed61c8 "Photovoltaic Industry Training")
 [![Process Mining Training](https://images.credly.com/size/110x110/images/52160d67-744a-4134-b432-62a2ce3d62d7/image.png)](http://www.credly.com/badges/02f4ff40-7c91-4102-a914-d4672a216f1a "Process Mining Training")
@@ -61,9 +64,6 @@
 [![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/110x110/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](http://www.credly.com/badges/97478c16-0429-4f55-9f6f-9ff3a8db7c57 "Enterprise Design Thinking - Team Essentials for AI")
 [![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/b6441a1b-eed0-4e29-aa12-b6ae2f2f896b "Enterprise Design Thinking Co-Creator")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/924c37bf-9c7c-4be1-9b0d-6c7f6866c146 "AWS Certified Cloud Practitioner")
-[![IBM Agile Advocate](https://images.credly.com/size/110x110/images/00cfeff7-03d2-4c00-b129-d2c09ca39831/IBM-Agile-Advocate.png)](http://www.credly.com/badges/8bf9982b-8977-4076-99d8-5ac04d6f2076 "IBM Agile Advocate")
-[![IBM watsonx Essentials](https://images.credly.com/size/110x110/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)](http://www.credly.com/badges/bd258613-bfdd-4419-953e-3efaa881cffe "IBM watsonx Essentials")
-[![watsonx.ai Sales Foundation](https://images.credly.com/size/110x110/images/8079b4fc-9494-45d5-8621-78815d88fa3a/image.png)](http://www.credly.com/badges/1670b3ec-ae40-4df4-beba-46030511baff "watsonx.ai Sales Foundation")
 <!--END_SECTION:badges-->
 </div>
 
