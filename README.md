@@ -16,6 +16,9 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Events and Workflows](https://images.credly.com/size/110x110/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png)](http://www.credly.com/badges/304dcaab-aefb-40cd-b898-c2d1c458b9d6 "AWS Knowledge: Events and Workflows")
+[![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/1090a493-6f59-4e38-9fc6-3370573ebcd0 "AWS Knowledge: Data Protection & Disaster Recovery")
+[![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/3c684f5f-3190-49bc-9fa2-69d38ab2629c "AWS Knowledge: Compute")
 [![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](http://www.credly.com/badges/ad250bf8-f809-4d8b-a414-cd4ccdec94d2 "AWS Knowledge: Amazon Braket")
 [![AWS Knowledge: AWS for Games: Cloud Game Development](https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](http://www.credly.com/badges/7a374012-7b3a-4e9a-a080-78c9ef248f0f "AWS Knowledge: AWS for Games: Cloud Game Development")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/e08ea748-2eb4-463e-98fe-f99b3ee37391 "AWS Knowledge: Cloud Essentials")
@@ -61,9 +64,6 @@
 [![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/e08e2c23-a8f7-4ace-a8e5-38ff767467a2 "Python for Data Science")
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](http://www.credly.com/badges/540055fc-c584-4e91-9ae9-2458cdff44b1 "Docker Essentials: A Developer Introduction")
 [![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/110x110/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](http://www.credly.com/badges/4f616428-7ba1-49a5-bff0-fbe4c8d31f88 "Enterprise Design Thinking for Sustainability")
-[![Enterprise Design Thinking - Team Essentials for AI](https://images.credly.com/size/110x110/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png)](http://www.credly.com/badges/97478c16-0429-4f55-9f6f-9ff3a8db7c57 "Enterprise Design Thinking - Team Essentials for AI")
-[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/110x110/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/b6441a1b-eed0-4e29-aa12-b6ae2f2f896b "Enterprise Design Thinking Co-Creator")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/924c37bf-9c7c-4be1-9b0d-6c7f6866c146 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 </div>
 
