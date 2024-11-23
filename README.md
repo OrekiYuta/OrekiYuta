@@ -16,6 +16,8 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/02e2f6fd-62e6-46e4-a19d-4a9cfe7ffdba "AWS Knowledge: Networking Core")
+[![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](http://www.credly.com/badges/7f5e81cd-f4be-4166-919e-6999f9218541 "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
 [![AWS Knowledge: Events and Workflows](https://images.credly.com/size/110x110/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png)](http://www.credly.com/badges/304dcaab-aefb-40cd-b898-c2d1c458b9d6 "AWS Knowledge: Events and Workflows")
 [![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/1090a493-6f59-4e38-9fc6-3370573ebcd0 "AWS Knowledge: Data Protection & Disaster Recovery")
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/3c684f5f-3190-49bc-9fa2-69d38ab2629c "AWS Knowledge: Compute")
@@ -62,8 +64,6 @@
 [![Data Science Tools](https://images.credly.com/size/110x110/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob)](http://www.credly.com/badges/bef87b52-18e8-4810-a937-d64458dc4b86 "Data Science Tools")
 [![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](http://www.credly.com/badges/55784c2a-b17f-4384-9d47-0200979c9514 "Machine Learning with Python - Level 1")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/e08e2c23-a8f7-4ace-a8e5-38ff767467a2 "Python for Data Science")
-[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](http://www.credly.com/badges/540055fc-c584-4e91-9ae9-2458cdff44b1 "Docker Essentials: A Developer Introduction")
-[![Enterprise Design Thinking for Sustainability](https://images.credly.com/size/110x110/images/95aa870e-8233-42da-807f-f8a94209119a/image.png)](http://www.credly.com/badges/4f616428-7ba1-49a5-bff0-fbe4c8d31f88 "Enterprise Design Thinking for Sustainability")
 <!--END_SECTION:badges-->
 </div>
 
