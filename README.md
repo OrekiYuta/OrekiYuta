@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/98f03c36-977e-4adc-8d7c-73be17d23213 "AWS Knowledge: File Storage")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/02e2f6fd-62e6-46e4-a19d-4a9cfe7ffdba "AWS Knowledge: Networking Core")
 [![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](http://www.credly.com/badges/7f5e81cd-f4be-4166-919e-6999f9218541 "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
 [![AWS Knowledge: Events and Workflows](https://images.credly.com/size/110x110/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png)](http://www.credly.com/badges/304dcaab-aefb-40cd-b898-c2d1c458b9d6 "AWS Knowledge: Events and Workflows")
@@ -63,7 +64,6 @@
 [![Data Science Methodologies](https://images.credly.com/size/110x110/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob)](http://www.credly.com/badges/15d2f490-1248-46ee-a844-21f26f8f61d7 "Data Science Methodologies")
 [![Data Science Tools](https://images.credly.com/size/110x110/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob)](http://www.credly.com/badges/bef87b52-18e8-4810-a937-d64458dc4b86 "Data Science Tools")
 [![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](http://www.credly.com/badges/55784c2a-b17f-4384-9d47-0200979c9514 "Machine Learning with Python - Level 1")
-[![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/e08e2c23-a8f7-4ace-a8e5-38ff767467a2 "Python for Data Science")
 <!--END_SECTION:badges-->
 </div>
 
