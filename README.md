@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![InstructLab: Democratizing AI Models at Scale](https://images.credly.com/size/110x110/images/d739a868-f29a-4754-a49c-cde9ac936ef7/InstructLab_20Democratizing_20AI_20Models_20at_20Scale_20Foundational.png)](http://www.credly.com/badges/be1ff749-c8ba-4abc-8958-093555838637 "InstructLab: Democratizing AI Models at Scale")
 [![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/98f03c36-977e-4adc-8d7c-73be17d23213 "AWS Knowledge: File Storage")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/02e2f6fd-62e6-46e4-a19d-4a9cfe7ffdba "AWS Knowledge: Networking Core")
 [![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](http://www.credly.com/badges/7f5e81cd-f4be-4166-919e-6999f9218541 "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
@@ -63,7 +64,6 @@
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob)](http://www.credly.com/badges/360b235b-897c-4063-b183-64d295542ae4 "Data Science Foundations - Level 1")
 [![Data Science Methodologies](https://images.credly.com/size/110x110/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob)](http://www.credly.com/badges/15d2f490-1248-46ee-a844-21f26f8f61d7 "Data Science Methodologies")
 [![Data Science Tools](https://images.credly.com/size/110x110/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob)](http://www.credly.com/badges/bef87b52-18e8-4810-a937-d64458dc4b86 "Data Science Tools")
-[![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](http://www.credly.com/badges/55784c2a-b17f-4384-9d47-0200979c9514 "Machine Learning with Python - Level 1")
 <!--END_SECTION:badges-->
 </div>
 
