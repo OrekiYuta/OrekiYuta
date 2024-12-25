@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![Istio ServiceMesh Training](https://images.credly.com/size/110x110/images/c4188dcc-9c7e-428c-843d-83ac6cacb44c/blob)](http://www.credly.com/badges/03d7c8c0-4e55-4c6d-acd8-4b0bb478e219 "Istio ServiceMesh Training")
 [![Expert in practical cybersecurity attack and defense](https://images.credly.com/size/110x110/images/72d23158-7a73-4339-b3f5-db9093b9dc0b/blob)](http://www.credly.com/badges/51241996-ac73-4b68-b74e-17cb1c318856 "Expert in practical cybersecurity attack and defense")
 [![InstructLab: Democratizing AI Models at Scale](https://images.credly.com/size/110x110/images/d739a868-f29a-4754-a49c-cde9ac936ef7/InstructLab_20Democratizing_20AI_20Models_20at_20Scale_20Foundational.png)](http://www.credly.com/badges/be1ff749-c8ba-4abc-8958-093555838637 "InstructLab: Democratizing AI Models at Scale")
 [![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/98f03c36-977e-4adc-8d7c-73be17d23213 "AWS Knowledge: File Storage")
@@ -63,7 +64,6 @@
 [![Data Science for Business - Level 1](https://images.credly.com/size/110x110/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob)](http://www.credly.com/badges/f4d64785-1334-4d9f-af67-2fe21db4fbfd "Data Science for Business - Level 1")
 [![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob)](http://www.credly.com/badges/e5dab254-625f-4219-92aa-30c01008b730 "IBM Cloud Essentials")
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob)](http://www.credly.com/badges/360b235b-897c-4063-b183-64d295542ae4 "Data Science Foundations - Level 1")
-[![Data Science Methodologies](https://images.credly.com/size/110x110/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob)](http://www.credly.com/badges/15d2f490-1248-46ee-a844-21f26f8f61d7 "Data Science Methodologies")
 <!--END_SECTION:badges-->
 </div>
 
