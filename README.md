@@ -16,6 +16,10 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Educate Web Builder](https://images.credly.com/size/110x110/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png)](http://www.credly.com/badges/fc2db2cf-9ece-4505-adea-a276a47fb1d3 "AWS Educate Web Builder")
+[![AWS Educate Machine Learning Foundations](https://images.credly.com/size/110x110/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png)](http://www.credly.com/badges/c48d3ffb-4819-45e7-9be3-95dec0050638 "AWS Educate Machine Learning Foundations")
+[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/0f2fecac-eb74-40aa-84f3-0ba9ceaf46a4 "AWS Educate Introduction to Cloud 101")
+[![AWS Educate Introduction to Generative AI](https://images.credly.com/size/110x110/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png)](http://www.credly.com/badges/6e29ae35-cbef-47b4-bca7-1df01605b581 "AWS Educate Introduction to Generative AI")
 [![AWS Partner: Digital Sovereignty](https://images.credly.com/size/110x110/images/432632b9-dcdc-43b6-b32d-c3e81b8c9b0d/blob)](http://www.credly.com/badges/feb293d0-1f40-491f-b5ed-5812bb307517 "AWS Partner: Digital Sovereignty")
 [![Istio ServiceMesh Training](https://images.credly.com/size/110x110/images/c4188dcc-9c7e-428c-843d-83ac6cacb44c/blob)](http://www.credly.com/badges/03d7c8c0-4e55-4c6d-acd8-4b0bb478e219 "Istio ServiceMesh Training")
 [![Expert in practical cybersecurity attack and defense](https://images.credly.com/size/110x110/images/72d23158-7a73-4339-b3f5-db9093b9dc0b/blob)](http://www.credly.com/badges/51241996-ac73-4b68-b74e-17cb1c318856 "Expert in practical cybersecurity attack and defense")
@@ -60,10 +64,6 @@
 [![Deep Learning](https://images.credly.com/size/110x110/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob)](http://www.credly.com/badges/f1fc04cf-62c9-486b-a4dd-713d0d4be85e "Deep Learning")
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob)](http://www.credly.com/badges/f141e86e-cea9-4cf2-8dde-aed9a9296076 "Accelerated Deep Learning with GPU")
 [![Deep Learning Essentials](https://images.credly.com/size/110x110/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob)](http://www.credly.com/badges/50b35220-79f2-4256-8041-df08c74c7a80 "Deep Learning Essentials")
-[![Deep Learning using TensorFlow](https://images.credly.com/size/110x110/images/ba85e07d-8263-4f30-b39b-d79883ee558c/blob)](http://www.credly.com/badges/c4be0dcb-76c3-4091-97d1-0916858827d0 "Deep Learning using TensorFlow")
-[![Security and Privacy by Design Foundations](https://images.credly.com/size/110x110/images/a2dcfb34-cc2a-44fa-884a-c78b5be9f557/Security-and-Privacy-by-Design-Foundational.png)](http://www.credly.com/badges/3507e118-59e1-4075-8310-50807c01598b "Security and Privacy by Design Foundations")
-[![Data Science for Business - Level 1](https://images.credly.com/size/110x110/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob)](http://www.credly.com/badges/f4d64785-1334-4d9f-af67-2fe21db4fbfd "Data Science for Business - Level 1")
-[![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob)](http://www.credly.com/badges/e5dab254-625f-4219-92aa-30c01008b730 "IBM Cloud Essentials")
 <!--END_SECTION:badges-->
 </div>
 
