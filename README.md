@@ -16,6 +16,10 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/ab16d11a-fd47-4a87-a0f0-cf06e7848452 "AWS Educate Getting Started with Databases")
+[![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/03e1a743-d8b0-48d5-ac1f-78f6e328e110 "AWS Educate Getting Started with Serverless")
+[![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/005775a4-731c-439e-8092-d76da94603a8 "AWS Educate Getting Started with Security")
+[![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/110x110/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](http://www.credly.com/badges/2fb39b7a-6ba4-4b74-8af8-fb455bef20c3 "AWS Educate Getting Started with Cloud Ops")
 [![AWS Educate Web Builder](https://images.credly.com/size/110x110/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png)](http://www.credly.com/badges/fc2db2cf-9ece-4505-adea-a276a47fb1d3 "AWS Educate Web Builder")
 [![AWS Educate Machine Learning Foundations](https://images.credly.com/size/110x110/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png)](http://www.credly.com/badges/c48d3ffb-4819-45e7-9be3-95dec0050638 "AWS Educate Machine Learning Foundations")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/0f2fecac-eb74-40aa-84f3-0ba9ceaf46a4 "AWS Educate Introduction to Cloud 101")
@@ -60,10 +64,6 @@
 [![watsonx.ai Technical Sales Intermediate](https://images.credly.com/size/110x110/images/e776e507-65f6-473c-b025-83211d94dd25/image.png)](http://www.credly.com/badges/318ae0e8-a295-4252-b3b4-55649c66dd1e "watsonx.ai Technical Sales Intermediate")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/3ead07d6-e3fb-4ccc-9fc4-fa8ce4bb34f7 "AWS Certified Solutions Architect – Professional")
 [![IBM Growth Behaviors](https://images.credly.com/size/110x110/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png)](http://www.credly.com/badges/093d3413-6379-402c-9f94-4960a7931b0b "IBM Growth Behaviors")
-[![Principles of Reactive Architecture](https://images.credly.com/size/110x110/images/a9be4a4d-dd5d-4131-9e6c-7145d85e3ee9/blob)](http://www.credly.com/badges/7c046a32-5a92-42c9-a613-7e9f149f425c "Principles of Reactive Architecture")
-[![Deep Learning](https://images.credly.com/size/110x110/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob)](http://www.credly.com/badges/f1fc04cf-62c9-486b-a4dd-713d0d4be85e "Deep Learning")
-[![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob)](http://www.credly.com/badges/f141e86e-cea9-4cf2-8dde-aed9a9296076 "Accelerated Deep Learning with GPU")
-[![Deep Learning Essentials](https://images.credly.com/size/110x110/images/ef4b79d9-5b12-4d26-b4f2-a8fc22b0351b/blob)](http://www.credly.com/badges/50b35220-79f2-4256-8041-df08c74c7a80 "Deep Learning Essentials")
 <!--END_SECTION:badges-->
 </div>
 
