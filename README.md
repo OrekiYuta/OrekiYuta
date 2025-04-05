@@ -16,6 +16,9 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/156de473-d4b4-47b6-a980-45ff7b369428 "AWS Educate Getting Started with Storage")
+[![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/9f6e4fb1-e351-442d-9945-8a5c8718f8da "AWS Educate Getting Started with Compute")
+[![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/c264b4de-13c2-485f-bc4b-c74efde66ea9 "AWS Educate Getting Started with Networking")
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/ab16d11a-fd47-4a87-a0f0-cf06e7848452 "AWS Educate Getting Started with Databases")
 [![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/03e1a743-d8b0-48d5-ac1f-78f6e328e110 "AWS Educate Getting Started with Serverless")
 [![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/005775a4-731c-439e-8092-d76da94603a8 "AWS Educate Getting Started with Security")
@@ -61,9 +64,6 @@
 [![AWS Partner: Generative AI Essentials](https://images.credly.com/size/110x110/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/ede610d4-d2a1-4508-8f96-0d7dd30ac5de "AWS Partner: Generative AI Essentials")
 [![AIOPS Certified Solution Administrator](https://images.credly.com/size/110x110/images/cddc2936-8041-4055-932a-28d19313fecd/image.png)](http://www.credly.com/badges/ad692fd7-f617-4644-8231-87df0272d0b4 "AIOPS Certified Solution Administrator")
 [![Java Full Stack Engineer](https://images.credly.com/size/110x110/images/2d8f2056-83bb-4692-bf47-f8162197432e/image.png)](http://www.credly.com/badges/6c5ceb0a-b35c-40eb-a9cf-2969cb784862 "Java Full Stack Engineer")
-[![watsonx.ai Technical Sales Intermediate](https://images.credly.com/size/110x110/images/e776e507-65f6-473c-b025-83211d94dd25/image.png)](http://www.credly.com/badges/318ae0e8-a295-4252-b3b4-55649c66dd1e "watsonx.ai Technical Sales Intermediate")
-[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/3ead07d6-e3fb-4ccc-9fc4-fa8ce4bb34f7 "AWS Certified Solutions Architect – Professional")
-[![IBM Growth Behaviors](https://images.credly.com/size/110x110/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png)](http://www.credly.com/badges/093d3413-6379-402c-9f94-4960a7931b0b "IBM Growth Behaviors")
 <!--END_SECTION:badges-->
 </div>
 
