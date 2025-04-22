@@ -16,6 +16,8 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/42414f83-66a1-4161-a26a-40f0c606ad6e "AWS Knowledge: Amazon EKS")
+[![AWS Knowledge: Data Migration](https://images.credly.com/size/110x110/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png)](http://www.credly.com/badges/72a4ca95-cb07-4e1c-ba0e-5fb6aef5a04a "AWS Knowledge: Data Migration")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/156de473-d4b4-47b6-a980-45ff7b369428 "AWS Educate Getting Started with Storage")
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/9f6e4fb1-e351-442d-9945-8a5c8718f8da "AWS Educate Getting Started with Compute")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/c264b4de-13c2-485f-bc4b-c74efde66ea9 "AWS Educate Getting Started with Networking")
@@ -62,8 +64,6 @@
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/110x110/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](http://www.credly.com/badges/df08d1bf-c77d-445c-8c9f-4ea40c578c28 "Artificial Intelligence Fundamentals")
 [![Cloud Computing Fundamentals](https://images.credly.com/size/110x110/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png)](http://www.credly.com/badges/d943422d-ebf7-4041-93c8-1a1870737262 "Cloud Computing Fundamentals")
 [![AWS Partner: Generative AI Essentials](https://images.credly.com/size/110x110/images/145a5de8-7390-4d57-b4cb-a10e2f9394e2/image.png)](http://www.credly.com/badges/ede610d4-d2a1-4508-8f96-0d7dd30ac5de "AWS Partner: Generative AI Essentials")
-[![AIOPS Certified Solution Administrator](https://images.credly.com/size/110x110/images/cddc2936-8041-4055-932a-28d19313fecd/image.png)](http://www.credly.com/badges/ad692fd7-f617-4644-8231-87df0272d0b4 "AIOPS Certified Solution Administrator")
-[![Java Full Stack Engineer](https://images.credly.com/size/110x110/images/2d8f2056-83bb-4692-bf47-f8162197432e/image.png)](http://www.credly.com/badges/6c5ceb0a-b35c-40eb-a9cf-2969cb784862 "Java Full Stack Engineer")
 <!--END_SECTION:badges-->
 </div>
 
