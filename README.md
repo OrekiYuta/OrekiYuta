@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/34fc424c-5a9d-4072-893f-7248d6fa0ba4" title="AI Programming"><img src="https://images.credly.com/size/80x80/images/21599e82-ce34-4f99-b4b6-612b54376617/blob" alt="AI Programming" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5541fe3f-2038-423b-b95e-837e49dcf71a" title="IBM Microsoft Copilot Summit"><img src="https://images.credly.com/size/80x80/images/8ad28495-0c01-4d78-a15b-1f4639d34445/image.png" alt="IBM Microsoft Copilot Summit" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9f6e4fb1-e351-442d-9945-8a5c8718f8da" title="AWS Educate Getting Started with Compute"><img src="https://images.credly.com/size/80x80/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate Getting Started with Compute" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c264b4de-13c2-485f-bc4b-c74efde66ea9" title="AWS Educate Getting Started with Networking"><img src="https://images.credly.com/size/80x80/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking" width="80" height="80"></a>
