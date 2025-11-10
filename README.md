@@ -16,6 +16,8 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b9c7caa1-68a3-4774-99a2-e073d5c04eaf" title="AWS Partner: Agentic AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" alt="AWS Partner: Agentic AI Essentials - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f54bbe76-48ba-41a9-8bc8-20acd9a9510e" title="AWS Partner: Agentic AI - Sales"><img src="https://images.credly.com/size/80x80/images/4f0015a7-9a28-4f59-b292-95315ec19240/blob" alt="AWS Partner: Agentic AI - Sales" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/34fc424c-5a9d-4072-893f-7248d6fa0ba4" title="AI Programming"><img src="https://images.credly.com/size/80x80/images/21599e82-ce34-4f99-b4b6-612b54376617/blob" alt="AI Programming" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5541fe3f-2038-423b-b95e-837e49dcf71a" title="IBM Microsoft Copilot Summit"><img src="https://images.credly.com/size/80x80/images/8ad28495-0c01-4d78-a15b-1f4639d34445/image.png" alt="IBM Microsoft Copilot Summit" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9f6e4fb1-e351-442d-9945-8a5c8718f8da" title="AWS Educate Getting Started with Compute - Training Badge"><img src="https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="AWS Educate Getting Started with Compute - Training Badge" width="80" height="80"></a>
