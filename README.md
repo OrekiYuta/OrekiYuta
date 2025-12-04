@@ -6,7 +6,7 @@
   <img src="https://cdn.jsdelivr.net/gh/OrekiYuta/OrekiYuta@1.0.1/OrekiYuta.png"  height="515" width="300" align="right">
 </div>
 
-### Hi there 👋, Elias here... Let's Creating！
+### Hi there 👋, Yuta here... Let's Creating！
 
 <h1></h1>
 <div>
