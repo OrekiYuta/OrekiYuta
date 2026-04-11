@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b34cabca-eacc-4f99-8ef1-fb315a98710f" title="Python from Foundation to Expert Training"><img src="https://images.credly.com/size/80x80/images/2957f023-cc17-462e-b692-11b6141fa322/blob" alt="Python from Foundation to Expert Training" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2fb57522-d2ff-4013-bba0-61414c3d77cb" title="AWS Partner: Generative AI Sales - Training Badge"><img src="https://images.credly.com/size/80x80/images/fe3a7b0a-2856-4f77-bab7-347fa16de82b/blob" alt="AWS Partner: Generative AI Sales - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6da9acfb-2b86-45db-b183-944cc58db85c" title="AWS Partner: Generative AI Technical - Training Badge"><img src="https://images.credly.com/size/80x80/images/9bb8bd52-365f-447d-b83b-9d3ee560f5e5/blob" alt="AWS Partner: Generative AI Technical - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b9c7caa1-68a3-4774-99a2-e073d5c04eaf" title="AWS Partner: Agentic AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" alt="AWS Partner: Agentic AI Essentials - Training Badge" width="80" height="80"></a>
@@ -63,7 +64,6 @@
 <a href="https://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963" title="React application developer"><img src="https://images.credly.com/size/80x80/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png" alt="React application developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/8ed8265e-ad57-4b41-a7a7-9ea00f6afcaa" title="Alteryx Foundational Micro-Credential"><img src="https://images.credly.com/size/80x80/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" alt="Alteryx Foundational Micro-Credential" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/61085a7b-af10-4c0b-9b63-d02e2fdadaf5" title="Machine Learning Fundamentals Micro-Credential"><img src="https://images.credly.com/size/80x80/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Machine Learning Fundamentals Micro-Credential" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/35c51879-972a-4c03-bea9-5e9f9c4de019" title="IBM Generative & Agentic AI Foundation"><img src="https://images.credly.com/size/80x80/images/c50bc9f5-7c6a-4356-b4ef-04c7645c050a/IBM-Generative-and-Agentic-AI-Foundation.png" alt="IBM Generative & Agentic AI Foundation" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 </div>
 
