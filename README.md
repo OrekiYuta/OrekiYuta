@@ -12,6 +12,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AI Agent Architecture](https://images.credly.com/size/80x80/images/f0b8c2a1-64b7-4472-ad13-17ccd5fec21b/blob)](https://www.credly.com/badges/171d3b37-aff0-4436-960a-011a0d411888)
 [![Python from Foundation to Expert Training](https://images.credly.com/size/80x80/images/2957f023-cc17-462e-b692-11b6141fa322/blob)](https://www.credly.com/badges/b34cabca-eacc-4f99-8ef1-fb315a98710f)
 [![AWS Partner: Generative AI Sales - Training Badge](https://images.credly.com/size/80x80/images/fe3a7b0a-2856-4f77-bab7-347fa16de82b/blob)](https://www.credly.com/badges/2fb57522-d2ff-4013-bba0-61414c3d77cb)
 [![AWS Partner: Generative AI Technical - Training Badge](https://images.credly.com/size/80x80/images/9bb8bd52-365f-447d-b83b-9d3ee560f5e5/blob)](https://www.credly.com/badges/6da9acfb-2b86-45db-b183-944cc58db85c)
@@ -59,7 +60,6 @@
 [![Cybersecurity Fundamentals](https://images.credly.com/size/80x80/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f)
 [![React application developer](https://images.credly.com/size/80x80/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png)](https://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963)
 [![Alteryx Foundational Micro-Credential](https://images.credly.com/size/80x80/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)](https://www.credly.com/badges/8ed8265e-ad57-4b41-a7a7-9ea00f6afcaa)
-[![Machine Learning Fundamentals Micro-Credential](https://images.credly.com/size/80x80/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png)](https://www.credly.com/badges/61085a7b-af10-4c0b-9b63-d02e2fdadaf5)
 <!--END_SECTION:badges-->
 </div>
 
