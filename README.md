@@ -59,7 +59,7 @@
 [![Autonomous Driving Training](https://images.credly.com/size/80x80/images/67696de5-1b7c-415c-8727-a614530d3529/image.png)](https://www.credly.com/badges/4e233d31-f6d3-4aa1-828c-4f1d3655330f)
 [![Cybersecurity Fundamentals](https://images.credly.com/size/80x80/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f)
 [![React application developer](https://images.credly.com/size/80x80/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png)](https://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963)
-[![Alteryx Foundational Micro-Credential](https://images.credly.com/size/80x80/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png)](https://www.credly.com/badges/8ed8265e-ad57-4b41-a7a7-9ea00f6afcaa)
+[![IBM Generative & Agentic AI Foundation](https://images.credly.com/size/80x80/images/95ae9d80-bc45-40fa-84a1-45cba63bd44b/IBM-Generative-and-Agentic-AI-Foundation.png)](https://www.credly.com/badges/35c51879-972a-4c03-bea9-5e9f9c4de019)
 <!--END_SECTION:badges-->
 </div>
 
