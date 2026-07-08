@@ -12,6 +12,7 @@
 <br/><br/>
 
 <!--START_SECTION:badges-->
+[![AIOps Training](https://images.credly.com/size/80x80/images/b2f6c38d-3c7f-4458-ac3d-90084cdfec52/blob)](https://www.credly.com/badges/7063cc41-648e-4bff-b64e-91ca8e9fb8ae)
 [![AI Agent Architecture](https://images.credly.com/size/80x80/images/f0b8c2a1-64b7-4472-ad13-17ccd5fec21b/blob)](https://www.credly.com/badges/171d3b37-aff0-4436-960a-011a0d411888)
 [![Python from Foundation to Expert Training](https://images.credly.com/size/80x80/images/2957f023-cc17-462e-b692-11b6141fa322/blob)](https://www.credly.com/badges/b34cabca-eacc-4f99-8ef1-fb315a98710f)
 [![AWS Partner: Generative AI Sales - Training Badge](https://images.credly.com/size/80x80/images/fe3a7b0a-2856-4f77-bab7-347fa16de82b/blob)](https://www.credly.com/badges/2fb57522-d2ff-4013-bba0-61414c3d77cb)
@@ -59,7 +60,6 @@
 [![Autonomous Driving Training](https://images.credly.com/size/80x80/images/67696de5-1b7c-415c-8727-a614530d3529/image.png)](https://www.credly.com/badges/4e233d31-f6d3-4aa1-828c-4f1d3655330f)
 [![Cybersecurity Fundamentals](https://images.credly.com/size/80x80/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/4bf5ceec-1caf-413e-8f0e-ca59ba2b8c8f)
 [![React application developer](https://images.credly.com/size/80x80/images/9ba4cd3c-c714-4e80-9a78-1d3458416ef5/image.png)](https://www.credly.com/badges/60d28ba6-8d7d-4acc-a1f5-859a87f4f963)
-[![IBM Generative & Agentic AI Foundation](https://images.credly.com/size/80x80/images/95ae9d80-bc45-40fa-84a1-45cba63bd44b/IBM-Generative-and-Agentic-AI-Foundation.png)](https://www.credly.com/badges/35c51879-972a-4c03-bea9-5e9f9c4de019)
 <!--END_SECTION:badges-->
 </div>
 
