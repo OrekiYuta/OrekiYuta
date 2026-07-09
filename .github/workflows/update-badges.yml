@@ -4,13 +4,18 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: yanru-li.ad12105c # optional, but default will use the same from github
-          CREDLY_SORT: RECENT
+      - uses: actions/checkout@v4
+      - uses: OrekiYuta/credly-badges-to-readme@v1
+        with:
+          credly_user: yanru-li.ad12105c
+          sort: RECENT
