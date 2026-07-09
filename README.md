@@ -18,26 +18,9 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,docker,kubernetes,aws,azure,tensorflow,git&perline=6" alt="Tech stack" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=orekiyuta&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orekiyuta&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</div>
-
----
-
 ## 🥇 Cloud Badges
 
-All my verified certifications live on Credly 👉 <https://certs.lyr.gd.cn/>
+All my verified certifications live on Credly 👉 <https://lyr.gd.cn/certifications/>
 
 <div align="center">
 
