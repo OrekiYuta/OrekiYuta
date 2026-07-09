@@ -1,15 +1,45 @@
+<div align="center">
 
+# Hi there 👋, I'm Yuta
 
+### Let's keep creating.
 
+<p>
+  <a href="https://github.com/OrekiYuta">
+    <img src="https://img.shields.io/badge/GitHub-OrekiYuta-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.credly.com/users/yanru-li.ad12105c/badges">
+    <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=orekiyuta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### Hi there 👋, Yuta here... Let's Creating！
+</div>
 
+---
 
-<div>
-  <h3>🥇 Cloud Badges</h3>
-    👉 https://certs.lyr.gd.cn/
+## 🧰 Tech Stack
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,docker,kubernetes,aws,azure,tensorflow,git&perline=6" alt="Tech stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=orekiyuta&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orekiyuta&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</div>
+
+---
+
+## 🥇 Cloud Badges
+
+All my verified certifications live on Credly 👉 <https://certs.lyr.gd.cn/>
+
+<div align="center">
 
 <!--START_SECTION:credly-badges-->
 [![AIOps Training](https://images.credly.com/size/80x80/images/b2f6c38d-3c7f-4458-ac3d-90084cdfec52/blob)](https://www.credly.com/badges/7063cc41-648e-4bff-b64e-91ca8e9fb8ae)
@@ -107,10 +137,5 @@
 [![Enterprise Design Thinking Practitioner](https://images.credly.com/size/80x80/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://www.credly.com/badges/841d21e6-153f-4429-9bbf-eef9a2d2f326)
 [![The IBM Way](https://images.credly.com/size/80x80/images/009696ad-3bb2-48e7-88d6-48c4a0d2c9a3/The-IBM-Way.png)](https://www.credly.com/badges/b398ade7-b443-4ff0-84bf-2587fe0134fb)
 <!--END_SECTION:credly-badges-->
-</div>
 
-<h1></h1>
-<div>
-  <h3>🏆 GitHub Profile Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=orekiyuta&column=5"/>
 </div>
