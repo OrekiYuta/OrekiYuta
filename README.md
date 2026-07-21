@@ -25,6 +25,7 @@ All my verified certifications live on Credly 👉 <https://lyr.gd.cn/certificat
 <div align="center">
 
 <!--START_SECTION:credly-badges-->
+[![Full-Stack Mobile Developer (Node.js & React Native)](https://images.credly.com/size/80x80/images/8f11e45c-c683-448d-bae5-f58e08541107/blob)](https://www.credly.com/badges/2cbe0810-2552-4c86-8ef0-a51ddafa6982)
 [![AIOps Training](https://images.credly.com/size/80x80/images/b2f6c38d-3c7f-4458-ac3d-90084cdfec52/blob)](https://www.credly.com/badges/7063cc41-648e-4bff-b64e-91ca8e9fb8ae)
 [![AI Agent Architecture](https://images.credly.com/size/80x80/images/f0b8c2a1-64b7-4472-ad13-17ccd5fec21b/blob)](https://www.credly.com/badges/171d3b37-aff0-4436-960a-011a0d411888)
 [![Python from Foundation to Expert Training](https://images.credly.com/size/80x80/images/2957f023-cc17-462e-b692-11b6141fa322/blob)](https://www.credly.com/badges/b34cabca-eacc-4f99-8ef1-fb315a98710f)
