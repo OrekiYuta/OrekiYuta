@@ -87,7 +87,7 @@ All my verified certifications live on Credly 👉 <https://lyr.gd.cn/certificat
 [![AIOPS Certified Solution Administrator](https://images.credly.com/size/80x80/images/cddc2936-8041-4055-932a-28d19313fecd/image.png)](https://www.credly.com/badges/ad692fd7-f617-4644-8231-87df0272d0b4)
 [![watsonx.ai Technical Sales Intermediate](https://images.credly.com/size/80x80/images/e776e507-65f6-473c-b025-83211d94dd25/image.png)](https://www.credly.com/badges/318ae0e8-a295-4252-b3b4-55649c66dd1e)
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/3ead07d6-e3fb-4ccc-9fc4-fa8ce4bb34f7)
-[![IBM Growth Behaviors](https://images.credly.com/size/80x80/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png)](https://www.credly.com/badges/093d3413-6379-402c-9f94-4960a7931b0b)
+[![IBM Growth Behaviors](https://images.credly.com/size/80x80/images/7bdbf172-7abf-4335-93de-f357a04b8903/69eb775cc80a2549e6edea71.png)](https://www.credly.com/badges/093d3413-6379-402c-9f94-4960a7931b0b)
 [![Principles of Reactive Architecture](https://images.credly.com/size/80x80/images/a9be4a4d-dd5d-4131-9e6c-7145d85e3ee9/blob)](https://www.credly.com/badges/7c046a32-5a92-42c9-a613-7e9f149f425c)
 [![Deep Learning](https://images.credly.com/size/80x80/images/19df5d04-16a5-4c4f-8ea1-1ed5512013f4/blob)](https://www.credly.com/badges/f1fc04cf-62c9-486b-a4dd-713d0d4be85e)
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/80x80/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob)](https://www.credly.com/badges/f141e86e-cea9-4cf2-8dde-aed9a9296076)
