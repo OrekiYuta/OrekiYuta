@@ -13,9 +13,26 @@ jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    env:
+      BADGE_SIZE: "80x80"
     steps:
       - uses: actions/checkout@v4
       - uses: OrekiYuta/credly-badges-to-readme@v1
         with:
           credly_user: yanru-li.ad12105c
           sort: RECENT
+          badge_size: ${{ env.BADGE_SIZE }}
+          columns: "6"
+          commit: "false"
+      - name: Format badge images
+        run: python .github/scripts/format_badges.py
+      - name: Commit badge updates
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update README with latest Credly badges"
+          git push
