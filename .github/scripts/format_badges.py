@@ -12,6 +12,10 @@ SECTION_END = "<!--END_SECTION:credly-badges-->"
 BADGE_PATTERN = re.compile(
     r"\[!\[(.*?)\]\((https?://[^\s]+?)\)\]\((https?://[^\s]+?)\)"
 )
+# Credly serves this PNG as application/octet-stream, which GitHub Camo rejects.
+IMAGE_OVERRIDES = {
+    "d739a868-f29a-4754-a49c-cde9ac936ef7": "assets/badges/instructlab-foundational.png",
+}
 
 
 def format_badges(content, badge_size):
@@ -28,7 +32,12 @@ def format_badges(content, badge_size):
         raise ValueError("Expected a badge table; set the action's columns input above 0")
 
     def render_badge(match):
-        name, image, link = (escape(value, quote=True) for value in match.groups())
+        name, image, link = match.groups()
+        for image_id, local_path in IMAGE_OVERRIDES.items():
+            if f"/images/{image_id}/" in image:
+                image = local_path
+                break
+        name, image, link = (escape(value, quote=True) for value in (name, image, link))
         return (
             f'<a href="{link}" title="{name}">'
             f'<img src="{image}" alt="{name}" width="{width}" height="{height}" />'
